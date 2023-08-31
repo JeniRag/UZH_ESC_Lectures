@@ -1,0 +1,655 @@
+LOCUS       ATP6_HUMAN               226 aa                     UNK 21-JUL-1986
+DEFINITION  RecName: Full=ATP synthase subunit a; AltName: Full=F-ATPase protein
+            6;.
+ACCESSION   P00846
+VERSION     P00846
+DBLINK      EMBL: J01415
+            EMBL: V00662
+            EMBL: D38112
+            EMBL: AF346971
+            EMBL: AF347011
+            EMBL: AF381997
+            EMBL: AF382010
+            EMBL: AF465948
+            EMBL: AF465949
+            EMBL: AF465950
+            EMBL: AF465956
+            EMBL: AF465957
+            EMBL: AF465962
+            EMBL: AF465972
+            EMBL: AF465974
+            EMBL: AF465975
+            EMBL: AF465976
+            EMBL: AY275529
+            EMBL: AY289076
+            EMBL: AY289100
+            EMBL: AY339407
+            EMBL: AY339408
+            EMBL: AY339510
+            EMBL: AY339511
+            EMBL: AY339512
+            EMBL: AY339513
+            EMBL: AY339530
+            EMBL: AY339531
+            EMBL: AY339532
+            EMBL: AY339533
+            EMBL: AY339534
+            EMBL: AY339535
+            EMBL: AY339536
+            EMBL: AY339537
+            EMBL: AY339538
+            EMBL: AY339539
+            EMBL: AY339540
+            EMBL: AY339541
+            EMBL: AY339543
+            EMBL: AY339581
+            EMBL: AY339582
+            EMBL: AY339584
+            EMBL: AY195749
+            EMBL: AY195764
+            EMBL: AY195773
+            EMBL: AY195786
+            EMBL: AY255144
+            EMBL: AY255147
+            EMBL: AY255180
+            EMBL: AY738945
+            EMBL: AY738967
+            EMBL: AY713988
+            EMBL: AY713999
+            EMBL: AY714004
+            EMBL: AY714013
+            EMBL: AY714014
+            EMBL: AY714028
+            EMBL: AY714031
+            EMBL: AY714035
+            EMBL: AY714045
+            EMBL: AY495147
+            EMBL: AY495199
+            EMBL: AY495231
+            EMBL: AY495232
+            EMBL: AY495233
+            EMBL: AY495234
+            EMBL: AY495235
+            EMBL: AY495236
+            EMBL: AY495237
+            EMBL: AY495238
+            EMBL: AY519488
+            PIR: A01049
+            RefSeq: YP_003024031.1
+            SMR: P00846
+            BioGRID: 110612
+            ComplexPortal: CPX-6151
+            CORUM: P00846
+            IntAct: P00846
+            MINT: P00846
+            STRING: 9606.ENSP00000354632
+            DrugBank: DB00783
+            DrugBank: DB13952
+            DrugBank: DB13953
+            DrugBank: DB13954
+            DrugBank: DB13955
+            DrugBank: DB13956
+            TCDB: 3.A.2.1.15
+            GlyGen: P00846
+            SwissPalm: P00846
+            BioMuta: MT-ATP6
+            DMDM: 114443
+            EPD: P00846
+            jPOST: P00846
+            MassIVE: P00846
+            PaxDb: P00846
+            PeptideAtlas: P00846
+            PRIDE: P00846
+            ProteomicsDB: 51290
+            TopDownProteomics: P00846
+            Antibodypedia: 58052
+            DNASU: 4508
+            Ensembl: ENST00000361899
+            GeneID: 4508
+            KEGG: hsa: 4508
+            CTD: 4508
+            DisGeNET: 4508
+            GeneCards: MT-ATP6
+            GeneReviews: MT-ATP6
+            HGNC: HGNC: 7414
+            HPA: ENSG00000198899
+            MalaCards: MT-ATP6
+            MIM: 256000
+            MIM: 500003
+            MIM: 500006
+            MIM: 500010
+            MIM: 500011
+            MIM: 500015
+            MIM: 516060
+            MIM: 535000
+            MIM: 551500
+            neXtProt: NX_P00846
+            OpenTargets: ENSG00000198899
+            Orphanet: 225154
+            Orphanet: 254913
+            Orphanet: 104
+            Orphanet: 255210
+            Orphanet: 320360
+            Orphanet: 644
+            Orphanet: 155
+            Orphanet: 397750
+            VEuPathDB: HostDB: ENSG00000198899
+            eggNOG: KOG4665
+            GeneTree: ENSGT00390000005568
+            HOGENOM: CLU_041018_0_2_1
+            InParanoid: P00846
+            OMA: AMAIPLW
+            OrthoDB: 1095315at2759
+            PhylomeDB: P00846
+            TreeFam: TF343395
+            PathwayCommons: P00846
+            Reactome: R-HSA-163210
+            Reactome: R-HSA-8949613
+            SignaLink: P00846
+            SIGNOR: P00846
+            BioGRID-ORCS: 4508
+            ChiTaRS: ATP6
+            GeneWiki: MT-ATP6
+            GenomeRNAi: 4508
+            Pharos: P00846
+            PRO: PR: P00846
+            Proteomes: UP000005640
+            RNAct: P00846
+            Bgee: ENSG00000198899
+            ExpressionAtlas: P00846
+            Genevisible: P00846
+            GO: GO: 0016021
+            GO: GO: 0005743
+            GO: GO: 0005753
+            GO: GO: 0045263
+            GO: GO: 0015078
+            GO: GO: 0007568
+            GO: GO: 0015986
+            GO: GO: 0042776
+            GO: GO: 0055093
+            Gene3D: 1.20.120.220
+            InterPro: IPR000568
+            InterPro: IPR023011
+            InterPro: IPR045083
+            InterPro: IPR035908
+            PANTHER: PTHR11410
+            Pfam: PF00119
+            PRINTS: PR00123
+            SUPFAM: SSF81336
+            TIGRFAMs: TIGR01131
+            PROSITE: PS00449
+KEYWORDS    ATP synthesis; Cardiomyopathy; CF(0); Disease variant; Hydrogen ion
+            transport; Ion transport; Leber hereditary optic neuropathy; Leigh
+            syndrome; Membrane; Mitochondrion; Mitochondrion inner membrane;
+            Neuropathy; Primary mitochondrial disease; Reference proteome;
+            Retinitis pigmentosa; Transmembrane; Transmembrane helix; Transport.
+SOURCE      .
+  ORGANISM  Homo sapiens (Human)
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Anderson S., Bankier A.T., Barrell B.G., de Bruijn M.H.L., Coulson
+            A.R., Drouin J., Eperon I.C., Nierlich D.P., Roe B.A., Sanger F.,
+            Schreier P.H., Smith A.J.H., Staden R., Young I.G.
+  TITLE     Sequence and organization of the human mitochondrial genome.
+  JOURNAL   Nature 290:457-465(1981).
+   PUBMED   7219534
+REFERENCE   2
+  AUTHORS   Horai S., Hayasaka K., Kondo R., Tsugane K., Takahata N.
+  TITLE     Recent African origin of modern humans revealed by complete
+            sequences of hominoid mitochondrial DNAs.
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 92:532-536(1995).
+   PUBMED   7530363
+  REMARK    TISSUE=Placenta;
+REFERENCE   3
+  AUTHORS   Ingman M., Kaessmann H., Paeaebo S., Gyllensten U.
+  TITLE     Mitochondrial genome variation and the origin of modern humans.
+  JOURNAL   Nature 408:708-713(2000).
+   PUBMED   11130070
+REFERENCE   4
+  AUTHORS   Maca-Meyer N., Gonzalez A.M., Larruga J.M., Flores C., Cabrera V.M.
+  TITLE     Major genomic mitochondrial lineages delineate early human
+            expansions.
+  JOURNAL   BMC Genet. 2:13-13(2001).
+   PUBMED   11553319
+REFERENCE   5
+  AUTHORS   Silva W.A. Jr., Bonatto S.L., Holanda A.J., Ribeiro-Dos-Santos A.K.,
+            Paixao B.M., Goldman G.H., Abe-Sandes K., Rodriguez-Delfin L.,
+            Barbosa M., Paco-Larson M.L., Petzl-Erler M.L., Valente V., Santos
+            S.E., Zago M.A.
+  TITLE     Mitochondrial genome diversity of native Americans supports a single
+            early entry of founder populations into America.
+  JOURNAL   Am. J. Hum. Genet. 71:187-192(2002).
+   PUBMED   12022039
+REFERENCE   6
+  AUTHORS   Maca-Meyer N., Gonzalez A.M., Pestano J., Flores C., Larruga J.M.,
+            Cabrera V.M.
+  TITLE     Mitochondrial DNA transit between West Asia and North Africa
+            inferred from U6 phylogeography.
+  JOURNAL   BMC Genet. 4:15-15(2003).
+   PUBMED   14563219
+REFERENCE   7
+  AUTHORS   Ingman M., Gyllensten U.
+  TITLE     Mitochondrial genome variation and evolutionary history of
+            Australian and New Guinean aborigines.
+  JOURNAL   Genome Res. 13:1600-1606(2003).
+   PUBMED   12840039
+REFERENCE   8
+  AUTHORS   Moilanen J.S., Finnila S., Majamaa K.
+  TITLE     Lineage-specific selection in human mtDNA: lack of polymorphisms in
+            a segment of MTND5 gene in haplogroup J.
+  JOURNAL   Mol. Biol. Evol. 20:2132-2142(2003).
+   PUBMED   12949126
+REFERENCE   9
+  AUTHORS   Mishmar D., Ruiz-Pesini E., Golik P., Macaulay V., Clark A.G.,
+            Hosseini S., Brandon M., Easley K., Chen E., Brown M.D., Sukernik
+            R.I., Olckers A., Wallace D.C.
+  TITLE     Natural selection shaped regional mtDNA variation in humans.
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 100:171-176(2003).
+   PUBMED   12509511
+REFERENCE   10
+  AUTHORS   Kong Q.-P., Yao Y.-G., Sun C., Bandelt H.-J., Zhu C.-L., Zhang Y.-P.
+  TITLE     Phylogeny of east Asian mitochondrial DNA lineages inferred from
+            complete sequences.
+  JOURNAL   Am. J. Hum. Genet. 73:671-676(2003).
+   PUBMED   12870132
+REFERENCE   11
+  AUTHORS   Achilli A., Rengo C., Magri C., Battaglia V., Olivieri A., Scozzari
+            R., Cruciani F., Zeviani M., Briem E., Carelli V., Moral P.,
+            Dugoujon J.M., Roostalu U., Loogvali E.L., Kivisild T., Bandelt
+            H.-J., Richards M., Villems R., Santachiara-Benerecetti A.S., Semino
+            O., Torroni A.
+  TITLE     The molecular dissection of mtDNA haplogroup H confirms that the
+            Franco-Cantabrian glacial refuge was a major source for the European
+            gene pool.
+  JOURNAL   Am. J. Hum. Genet. 75:910-918(2004).
+   PUBMED   15382008
+REFERENCE   12
+  AUTHORS   Palanichamy M.G., Sun C., Agrawal S., Bandelt H.-J., Kong Q.-P.,
+            Khan F., Wang C.Y., Chaudhuri T.K., Palla V., Zhang Y.-P.
+  TITLE     Phylogeny of mitochondrial DNA macrohaplogroup N in India, based on
+            complete sequencing: implications for the peopling of South Asia.
+  JOURNAL   Am. J. Hum. Genet. 75:966-978(2004).
+   PUBMED   15467980
+REFERENCE   13
+  AUTHORS   Coble M.D., Just R.S., O'Callaghan J.E., Letmanyi I.H., Peterson
+            C.T., Irwin J.A., Parsons T.J.
+  TITLE     Single nucleotide polymorphisms over the entire mtDNA genome that
+            increase the power of forensic testing in Caucasians.
+  JOURNAL   Int. J. Legal Med. 118:137-146(2004).
+   PUBMED   14760490
+REFERENCE   14
+  AUTHORS   Starikovskaya E.B., Sukernik R.I., Derbeneva O.A., Volodko N.V.,
+            Ruiz-Pesini E., Torroni A., Brown M.D., Lott M.T., Hosseini S.H.,
+            Huoponen K., Wallace D.C.
+  TITLE     Mitochondrial DNA diversity in indigenous populations of the
+            southern extent of Siberia, and the origins of native american
+            haplogroups.
+  JOURNAL   Ann. Hum. Genet. 69:67-89(2005).
+   PUBMED   15638829
+REFERENCE   15
+  AUTHORS   Castagna A.E., Addis J., McInnes R.R., Clarke J.T., Ashby P., Blaser
+            S., Robinson B.H.
+  TITLE     Late onset Leigh syndrome and ataxia due to a T to C mutation at bp
+            9,185 of mitochondrial DNA.
+  JOURNAL   Am. J. Med. Genet. A 143A:808-816(2007).
+   PUBMED   17352390
+REFERENCE   16
+  AUTHORS   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+            Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.
+  TITLE     Initial characterization of the human central proteome.
+  JOURNAL   BMC Syst. Biol. 5:17-17(2011).
+   PUBMED   21269460
+REFERENCE   17
+  AUTHORS   Burrage L.C., Tang S., Wang J., Donti T.R., Walkiewicz M., Luchak
+            J.M., Chen L.C., Schmitt E.S., Niu Z., Erana R., Hunter J.V., Graham
+            B.H., Wong L.J., Scaglia F.
+  TITLE     Mitochondrial myopathy, lactic acidosis, and sideroblastic anemia
+            (MLASA) plus associated with a novel de novo mutation (m.8969G>A) in
+            the mitochondrial encoded ATP6 gene.
+  JOURNAL   Mol. Genet. Metab. 113:207-212(2014).
+   PUBMED   25037980
+REFERENCE   18
+  AUTHORS   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M.,
+            Ayoub D., Lane L., Bairoch A., Van Dorsselaer A., Carapito C.
+  TITLE     N-terminome analysis of the human mitochondrial proteome.
+  JOURNAL   Proteomics 15:2519-2524(2015).
+   PUBMED   25944712
+REFERENCE   19
+  AUTHORS   Tebbenkamp A.T.N., Varela L., Choi J., Paredes M.I., Giani A.M.,
+            Song J.E., Sestan-Pesa M., Franjic D., Sousa A.M.M., Liu Z.W., Li
+            M., Bichsel C., Koch M., Szigeti-Buck K., Liu F., Li Z., Kawasawa
+            Y.I., Paspalas C.D., Mineur Y.S., Prontera P., Merla G., Picciotto
+            M.R., Arnsten A.F.T., Horvath T.L., Sestan N.
+  TITLE     The 7q11.23 protein DNAJC30 interacts with ATP synthase and links
+            mitochondria to brain development.
+  JOURNAL   Cell 0:0-0(2018).
+   PUBMED   30318146
+REFERENCE   20
+  AUTHORS   Wallace D.C., Singh G., Lott M.T., Hodge J.A., Schurr T.G., Lezza
+            A.M., Elsas L.J. II, Nikoskelainen E.K.
+  TITLE     Mitochondrial DNA mutation associated with Leber's hereditary optic
+            neuropathy.
+  JOURNAL   Science 242:1427-1430(1988).
+   PUBMED   3201231
+REFERENCE   21
+  AUTHORS   Holt I.J., Harding A.E., Petty R.K., Morgan-Hughes J.A.
+  TITLE     A new mitochondrial disease associated with mitochondrial DNA
+            heteroplasmy.
+  JOURNAL   Am. J. Hum. Genet. 46:428-433(1990).
+   PUBMED   2137962
+REFERENCE   22
+  AUTHORS   Marzuki S., Noer A.S., Lertrit P., Thyagarajan D., Kapsa R.,
+            Utthanaphol P., Byrne E.
+  TITLE     Normal variants of human mitochondrial DNA and translation products:
+            the building of a reference data base.
+  JOURNAL   Hum. Genet. 88:139-145(1991).
+   PUBMED   1757091
+REFERENCE   23
+  AUTHORS   de Vries D.D., van Engelen B.G.M., Gabreels F.J.M., Ruitenbeek W.,
+            van Oost B.A.
+  TITLE     A second missense mutation in the mitochondrial ATPase 6 gene in
+            Leigh's syndrome.
+  JOURNAL   Ann. Neurol. 34:410-412(1993).
+   PUBMED   8395787
+REFERENCE   24
+  AUTHORS   Lamminen T., Majander A., Juvonen V., Wikstroem M., Aula P.,
+            Nikoskelainen E., Savontaus M.-L.
+  TITLE     A mitochondrial mutation at nt 9101 in the ATP synthase 6 gene
+            associated with deficient oxidative phosphorylation in a family with
+            Leber hereditary optic neuroretinopathy.
+  JOURNAL   Am. J. Hum. Genet. 56:1238-1240(1995).
+   PUBMED   7726182
+REFERENCE   25
+  AUTHORS   Thyagarajan D., Shanske S., Vazquez-Memije M., De Vivo D.C., Dimauro
+            S.
+  TITLE     A novel mitochondrial ATPase 6 point mutation in familial bilateral
+            striatal necrosis.
+  JOURNAL   Ann. Neurol. 38:468-472(1995).
+   PUBMED   7668837
+REFERENCE   26
+  AUTHORS   Campos Y., Martin M.A., Rubio J.C., Solana L.G., Garcia-Benayas C.,
+            Terradas J.L., Arenas J.
+  TITLE     Leigh syndrome associated with the T9176C mutation in the ATPase 6
+            gene of mitochondrial DNA.
+  JOURNAL   Neurology 49:595-597(1997).
+   PUBMED   9270604
+REFERENCE   27
+  AUTHORS   Takahashi S., Makita Y., Oki J., Miyamoto A., Yanagawa J., Naito E.,
+            Goto Y., Okuno A.
+  TITLE     De novo mtDNA nt 8993 (T-G) mutation resulting in Leigh syndrome.
+  JOURNAL   Am. J. Hum. Genet. 62:717-719(1998).
+   PUBMED   9556461
+REFERENCE   28
+  AUTHORS   Dionisi-Vici C., Seneca S., Zeviani M., Fariello G., Rimoldi M.,
+            Bertini E., De Meirleir L.
+  TITLE     Fulminant Leigh syndrome and sudden unexpected death in a family
+            with the T9176C mutation of the mitochondrial ATPase 6 gene.
+  JOURNAL   J. Inherit. Metab. Dis. 21:2-8(1998).
+   PUBMED   9501263
+REFERENCE   29
+  AUTHORS   Rieder M.J., Taylor S.L., Tobe V.O., Nickerson D.A.
+  TITLE     Automating the identification of DNA variations using quality-based
+            fluorescence re-sequencing: analysis of the human mitochondrial
+            genome.
+  JOURNAL   Nucleic Acids Res. 26:967-973(1998).
+   PUBMED   9461455
+REFERENCE   30
+  AUTHORS   Rantamaki M.T., Soini H.K., Finnila S.M., Majamaa K., Udd B.
+  TITLE     Adult-onset ataxia and polyneuropathy caused by mitochondrial
+            8993T-->C mutation.
+  JOURNAL   Ann. Neurol. 58:337-340(2005).
+   PUBMED   16049925
+REFERENCE   31
+  AUTHORS   Craig K., Elliott H.R., Keers S.M., Lambert C., Pyle A., Graves
+            T.D., Woodward C., Sweeney M.G., Davis M.B., Hanna M.G., Chinnery
+            P.F.
+  TITLE     Episodic ataxia and hemiplegia caused by the 8993T->C mitochondrial
+            DNA mutation.
+  JOURNAL   J. Med. Genet. 44:797-799(2007).
+   PUBMED   18055910
+REFERENCE   32
+  AUTHORS   Ware S.M., El-Hassan N., Kahler S.G., Zhang Q., Ma Y.W., Miller E.,
+            Wong B., Spicer R.L., Craigen W.J., Kozel B.A., Grange D.K., Wong
+            L.J.
+  TITLE     Infantile cardiomyopathy caused by a mutation in the overlapping
+            region of mitochondrial ATPase 6 and 8 genes.
+  JOURNAL   J. Med. Genet. 46:308-314(2009).
+   PUBMED   19188198
+COMMENT     FUNCTION: Mitochondrial membrane ATP synthase (F(1)F(0) ATP synthase
+            or Complex V) produces ATP from ADP in the presence of a proton
+            gradient across the membrane which is generated by electron
+            transport complexes of the respiratory chain. F-type ATPases consist
+            of two structural domains, F(1) - containing the extramembraneous
+            catalytic core and F(0) - containing the membrane proton channel,
+            linked together by a central stalk and a peripheral stalk. During
+            catalysis, ATP synthesis in the catalytic domain of F(1) is coupled
+            via a rotary mechanism of the central stalk subunits to proton
+            translocation. Key component of the proton channel; it may play a
+            direct role in the translocation of protons across the membrane.
+            SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+            core - and CF(0) - the membrane proton channel. CF(1) has five
+            subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+            has three main subunits: a, b and c. Component of an ATP synthase
+            complex composed of ATP5PB, ATP5MC1, ATP5F1E, ATP5PD, ATP5ME,
+            ATP5PF, ATP5MF, MT-ATP6, MT- ATP8, ATP5F1A, ATP5F1B, ATP5F1D,
+            ATP5F1C, ATP5PO, ATP5MG, ATP5MK and ATP5MJ (By similarity).
+            Interacts with DNAJC30; interaction is direct (PubMed:30318146).
+            {ECO:0000250|UniProtKB:P00847, ECO:0000269|PubMed:30318146}.
+            SUBCELLULAR LOCATION: Mitochondrion inner membrane; Multi-pass
+            membrane protein.
+            DISEASE: Neuropathy, ataxia, and retinitis pigmentosa (NARP)
+            [MIM:551500]: A syndrome characterized by variable combination of
+            developmental delay, psychomotor retardation, hearing loss, optic
+            atrophy and retinitis pigmentosa, dementia, seizures, ataxia,
+            proximal neurogenic muscle weakness, and sensory neuropathy.
+            {ECO:0000269|PubMed:2137962}. Note=The disease is caused by variants
+            affecting the gene represented in this entry.
+            DISEASE: Leber hereditary optic neuropathy (LHON) [MIM:535000]: A
+            maternally inherited form of Leber hereditary optic neuropathy, a
+            mitochondrial disease resulting in bilateral painless loss of
+            central vision due to selective degeneration of the retinal ganglion
+            cells and their axons. The disorder shows incomplete penetrance and
+            male predominance. Cardiac conduction defects and neurological
+            defects have also been described in some LHON patients. LHON results
+            from primary mitochondrial DNA mutations affecting the respiratory
+            chain complexes. {ECO:0000269|PubMed:7726182}. Note=The disease is
+            caused by variants affecting the gene represented in this entry.
+            DISEASE: Leigh syndrome (LS) [MIM:256000]: An early-onset
+            progressive neurodegenerative disorder characterized by the presence
+            of focal, bilateral lesions in one or more areas of the central
+            nervous system including the brainstem, thalamus, basal ganglia,
+            cerebellum and spinal cord. Clinical features depend on which areas
+            of the central nervous system are involved and include subacute
+            onset of psychomotor retardation, hypotonia, ataxia, weakness,
+            vision loss, eye movement abnormalities, seizures, and dysphagia.
+            {ECO:0000269|PubMed:17352390, ECO:0000269|PubMed:8395787,
+            ECO:0000269|PubMed:9270604, ECO:0000269|PubMed:9501263,
+            ECO:0000269|PubMed:9556461}. Note=The disease is caused by variants
+            affecting the gene represented in this entry.
+            DISEASE: Mitochondrial infantile bilateral striatal necrosis (MIBSN)
+            [MIM:500003]: Bilateral striatal necrosis is a neurological disorder
+            resembling Leigh syndrome. {ECO:0000269|PubMed:7668837}. Note=The
+            disease is caused by variants affecting the gene represented in this
+            entry.
+            DISEASE: Mitochondrial complex V deficiency, mitochondrial 1
+            (MC5DM1) [MIM:500015]: A mitochondrial disorder with heterogeneous
+            clinical manifestations including neuropathy, ataxia, hypertrophic
+            cardiomyopathy. Hypertrophic cardiomyopathy can present with
+            negligible to extreme hypertrophy, minimal to extensive fibrosis and
+            myocyte disarray, absent to severe left ventricular outflow tract
+            obstruction, and distinct septal contours/morphologies with
+            extremely varying clinical course. {ECO:0000269|PubMed:16049925,
+            ECO:0000269|PubMed:18055910}. Note=The disease is caused by variants
+            affecting the gene represented in this entry.
+            DISEASE: Myopathy, lactic acidosis, and sideroblastic anemia 3
+            (MLASA3) [MIM:500011]: A rare mitochondrial disorder characterized
+            by sideroblastic anemia, muscle weakness, and exercise intolerance
+            associated with persistent lactic acidemia. Additional MLASA3
+            features are failure to thrive, hearing loss, epilepsy, stroke-like
+            episodes, and severe developmental delay.
+            {ECO:0000269|PubMed:25037980}. Note=The disease is caused by
+            variants affecting the gene represented in this entry.
+            DISEASE: Ataxia and polyneuropathy, adult-onset (APAO) [MIM:500010]:
+            A mitochondrial disease characterized by ataxia, axonal sensorimotor
+            polyneuropathy, abnormal eye movements, and dysarthria.
+            {ECO:0000269|PubMed:16049925, ECO:0000269|PubMed:18055910}. Note=The
+            disease is caused by variants affecting the gene represented in this
+            entry.
+            DISEASE: Cardiomyopathy, infantile hypertrophic (CMHI) [MIM:500006]:
+            An infantile form of hypertrophic cardiomyopathy, a heart disorder
+            characterized by ventricular hypertrophy, which is usually
+            asymmetric and often involves the interventricular septum. The
+            symptoms include dyspnea, syncope, collapse, palpitations, and chest
+            pain. They can be readily provoked by exercise. The disorder has
+            inter- and intrafamilial variability ranging from benign to
+            malignant forms with high risk of cardiac failure and sudden cardiac
+            death. {ECO:0000269|PubMed:19188198}. Note=The disease is caused by
+            variants affecting the gene represented in this entry.
+            SIMILARITY: Belongs to the ATPase A chain family. {ECO:0000305}.
+FEATURES             Location/Qualifiers
+     CHAIN           1..226
+                     /note="ATP synthase subunit a"
+     TRANSMEM        6..26
+                     /note="Helical"
+                     /evidence="ECO:0000255"
+     TRANSMEM        68..88
+                     /note="Helical"
+                     /evidence="ECO:0000255"
+     TRANSMEM        97..117
+                     /note="Helical"
+                     /evidence="ECO:0000255"
+     TRANSMEM        138..158
+                     /note="Helical"
+                     /evidence="ECO:0000255"
+     TRANSMEM        164..184
+                     /note="Helical"
+                     /evidence="ECO:0000255"
+     TRANSMEM        189..209
+                     /note="Helical"
+                     /evidence="ECO:0000255"
+     VARIANT         7
+                     /note="A -> T (in dbSNP:rs1603221578)"
+                     /evidence="ECO:0000269|PubMed:15467980"
+     VARIANT         11
+                     /note="A -> T (in dbSNP:rs386829040)"
+                     /evidence="ECO:0000269|PubMed:12949126,ECO:0000269|PubMed:1
+                     4760490,
+                     ECO:0000269|PubMed:15382008,ECO:0000269|PubMed:15467980"
+     VARIANT         14
+                     /note="I -> V (in dbSNP:rs3020563)"
+                     /evidence="ECO:0000269|PubMed:14563219,ECO:0000269|PubMed:7
+                     530363"
+     VARIANT         16
+                     /note="G -> S (in dbSNP:rs28502681)"
+                     /evidence="ECO:0000269|PubMed:12870132"
+     VARIANT         33
+                     /note="T -> S (in dbSNP:rs1603221645)"
+                     /evidence="ECO:0000269|PubMed:1757091"
+     VARIANT         37
+                     /note="L -> P"
+                     /evidence="ECO:0000269|PubMed:12870132"
+     VARIANT         53
+                     /note="T -> I (in dbSNP:rs201336180)"
+                     /evidence="ECO:0000269|PubMed:15467980"
+     VARIANT         59
+                     /note="T -> A (in dbSNP:rs2000975)"
+                     /evidence="ECO:0000269|PubMed:1757091,ECO:0000269|PubMed:32
+                     01231"
+     VARIANT         60
+                     /note="M -> T (in dbSNP:rs878959404)"
+                     /evidence="ECO:0000269|PubMed:12509511,ECO:0000269|PubMed:1
+                     2949126,
+                     ECO:0000269|PubMed:14760490,ECO:0000269|PubMed:15467980"
+     VARIANT         61
+                     /note="H -> Y"
+                     /evidence="ECO:0000269|PubMed:1757091"
+     VARIANT         80
+                     /note="A -> T (in dbSNP:rs1556423534)"
+                     /evidence="ECO:0000269|PubMed:12022039"
+     VARIANT         90
+                     /note="H -> Y (in dbSNP:rs2298007)"
+                     /evidence="ECO:0000269|PubMed:11130070,ECO:0000269|PubMed:1
+                     1553319,
+                     ECO:0000269|PubMed:12022039,ECO:0000269|PubMed:12509511,
+                     ECO:0000269|PubMed:12870132,ECO:0000269|PubMed:15638829,
+                     ECO:0000269|PubMed:1757091"
+     VARIANT         112
+                     /note="T -> A (in dbSNP:rs2001031)"
+                     /evidence="ECO:0000269|PubMed:11130070,ECO:0000269|PubMed:1
+                     1553319,
+                     ECO:0000269|PubMed:12022039,ECO:0000269|PubMed:12509511,
+                     ECO:0000269|PubMed:12840039,ECO:0000269|PubMed:12870132,
+                     ECO:0000269|PubMed:12949126,ECO:0000269|PubMed:14563219,
+                     ECO:0000269|PubMed:14760490,ECO:0000269|PubMed:15382008,
+                     ECO:0000269|PubMed:15467980,ECO:0000269|PubMed:15638829,
+                     ECO:0000269|PubMed:1757091"
+     VARIANT         117
+                     /note="F -> L (in dbSNP:rs201123510)"
+                     /evidence="ECO:0000269|PubMed:12509511"
+     VARIANT         121
+                     /note="I -> V (in dbSNP:rs386829057)"
+                     /evidence="ECO:0000269|PubMed:15467980"
+     VARIANT         133
+                     /note="T -> A (in dbSNP:rs200329150)"
+                     /evidence="ECO:0000269|PubMed:12949126"
+     VARIANT         148
+                     /note="S -> N (in MLASA3; dbSNP:rs794726857)"
+                     /evidence="ECO:0000269|PubMed:25037980"
+     VARIANT         155
+                     /note="A -> T (in dbSNP:rs587776444)"
+                     /evidence="ECO:0000269|PubMed:1757091,ECO:0000269|PubMed:94
+                     61455"
+     VARIANT         156
+                     /note="L -> P (in LS, MC5DM1 and APAO; dbSNP:rs199476133)"
+                     /evidence="ECO:0000269|PubMed:16049925,ECO:0000269|PubMed:1
+                     8055910, ECO:0000269|PubMed:8395787"
+     VARIANT         156
+                     /note="L -> R (in NARP and LS; dbSNP:rs199476133)"
+                     /evidence="ECO:0000269|PubMed:2137962,ECO:0000269|PubMed:95
+                     56461"
+     VARIANT         177
+                     /note="A -> T (in dbSNP:rs9645429)"
+     VARIANT         178
+                     /note="T -> A (in dbSNP:rs1556423599)"
+                     /evidence="ECO:0000269|PubMed:12870132"
+     VARIANT         182
+                     /note="S -> L (in dbSNP:rs1603222032)"
+                     /evidence="ECO:0000269|PubMed:12870132"
+     VARIANT         192
+                     /note="I -> T (in LHON; possible rate primary mutation;
+                     dbSNP:rs199476134)"
+                     /evidence="ECO:0000269|PubMed:12509511,ECO:0000269|PubMed:7
+                     726182"
+     VARIANT         192
+                     /note="I -> V (in dbSNP:rs1603222068)"
+                     /evidence="ECO:0000269|PubMed:14760490"
+     VARIANT         193
+                     /note="F -> L (in dbSNP:rs1603222077)"
+                     /evidence="ECO:0000269|PubMed:11130070,ECO:0000269|PubMed:1
+                     2840039"
+     VARIANT         204
+                     /note="I -> T (in dbSNP:rs1603222121)"
+                     /evidence="ECO:0000269|PubMed:11553319,ECO:0000269|PubMed:1
+                     2870132"
+     VARIANT         213
+                     /note="V -> I (in dbSNP:rs2298010)"
+                     /evidence="ECO:0000269|PubMed:15467980,ECO:0000269|PubMed:1
+                     757091, ECO:0000269|PubMed:3201231"
+     VARIANT         217
+                     /note="L -> P (in LS and MIBSN; dbSNP:rs199476135)"
+                     /evidence="ECO:0000269|PubMed:7668837,ECO:0000269|PubMed:92
+                     70604, ECO:0000269|PubMed:9501263"
+     VARIANT         219
+                     /note="S -> G (in dbSNP:rs1556423628)"
+                     /evidence="ECO:0000269|PubMed:1757091"
+     VARIANT         220
+                     /note="L -> P (in LS; dbSNP:rs199476138)"
+                     /evidence="ECO:0000269|PubMed:17352390"
+ORIGIN
+        1 mnenlfasfi aptilglpaa vliilfppll iptskylinn rlittqqwli kltskqmmtm
+       61 hntkgrtwsl mlvsliifia ttnllgllph sftpttqlsm nlamaiplwa gtvimgfrsk
+      121 iknalahflp qgtptplipm lviietisll iqpmalavrl tanitaghll mhligsatla
+      181 mstinlpstl iiftilillt ileiavaliq ayvftllvsl ylhdnt
+//

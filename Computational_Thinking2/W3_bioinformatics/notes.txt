@@ -1,0 +1,31 @@
+The problem for this week and next week is in two parts. Collaborative
+solutions are encouraged.
+
+The first part is a graphical way of comparing similar but not
+identical strings.  You are asked to write a function like
+
+def dots(a,b,W):
+    # code here...
+    return x,y
+
+where a and b are strings, W is the window size, and x and y are lists
+(or arrays) of points.  In particular
+
+    dots('My care is loss of care, by old care done',
+         'Your care is gain of care, by new care won,5)
+
+leads to the dotplot.png figure. The comparison is to be done using a
+dictionary or other hash-table method.
+
+The second part is application to real genes, to construct a
+phylogenetic tree.  A good source is www.uniprot.org which is the
+Swiss archive of protein sequences.  The fetch.py script fetches
+protein sequences for genes from that site.  The cryptic names refer
+to one particular gene (ATP synthase subunit a) in several different
+species (human, ostrich, python, and so on).  Genbank and Fasta are
+two text-file formats, which you will be able to figure out.
+
+Now have fun and reconstruct some evolution history.  For example,
+among African and Asian elephants and mammoths, which branched first?
+
+

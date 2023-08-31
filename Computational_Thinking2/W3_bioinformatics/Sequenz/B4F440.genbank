@@ -1,0 +1,228 @@
+LOCUS       B4F440_HOMNE             226 aa                     UNK 23-SEP-2008
+DEFINITION  RecName: Full=ATP synthase subunit a {ECO:0000256|ARBA:ARBA00021312,
+            ECO:0000256|RuleBase:RU004450};.
+ACCESSION   B4F440
+VERSION     B4F440
+DBLINK      EMBL: KC879692
+            EMBL: KJ533544
+            EMBL: KJ533545
+            EMBL: KU131206
+            EMBL: KX198083
+            EMBL: KX198084
+            EMBL: KX198085
+            EMBL: KX198086
+            EMBL: KX198087
+            EMBL: KX198088
+            EMBL: MG025536
+            EMBL: MG025537
+            EMBL: MG025538
+            EMBL: MG025539
+            EMBL: MG025540
+            EMBL: AM948965
+            EMBL: FM865407
+            EMBL: FM865408
+            EMBL: FM865409
+            EMBL: FM865410
+            EMBL: FM865411
+            EMBL: MK033602
+            EMBL: MK123269
+            EMBL: MK388903
+            EMBL: MT795654
+            RefSeq: YP_002124307.1
+            GeneID: 6775074
+            CTD: 4508
+            GO: GO: 0016021
+            GO: GO: 0005743
+            GO: GO: 0045263
+            GO: GO: 0015078
+            GO: GO: 0015986
+            Gene3D: 1.20.120.220
+            InterPro: IPR000568
+            InterPro: IPR023011
+            InterPro: IPR045083
+            InterPro: IPR035908
+            PANTHER: PTHR11410
+            Pfam: PF00119
+            PRINTS: PR00123
+            SUPFAM: SSF81336
+            TIGRFAMs: TIGR01131
+            PROSITE: PS00449
+KEYWORDS    ATP synthesis; CF(0); Hydrogen ion transport; Ion transport;
+            Membrane {ECO:0000256|ARBA:ARBA00022792,
+            ECO:0000256|ARBA:ARBA00022989,; ECO:0000256|SAM:Phobius};
+            Mitochondrion; Mitochondrion inner membrane; Transmembrane;
+            Transmembrane helix {ECO:0000256|ARBA:ARBA00022989,;
+            ECO:0000256|SAM:Phobius}; Transport.
+SOURCE      .
+  ORGANISM  Homo sapiens neanderthalensis (Neanderthal)
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Green R.E., Malaspinas A.S., Krause J., Briggs A.W., Johnson P.L.F.,
+            Uhler C., Meyer M., Good J.M., Maricic T., Stenzel U., Pruefer K.,
+            Siebauer M., Burbano H.A., Ronan M., Rothberg J.M., Egholm M., Rudan
+            P., Brajkovic D., Kucan Z., Gusic I., Wikstrom M., Laakkonen L.,
+            Kelso J., Slatkin M., Paabo S.
+  TITLE     A complete Neandertal mitochondrial genome sequence determined by
+            high-throughput sequencing.
+  JOURNAL   Cell 134:416-426(2008).
+   PUBMED   18692465
+  REMARK    TISSUE=Bone fossil {ECO:0000313|EMBL:CAQ37651.1};
+REFERENCE   2
+  AUTHORS   Briggs A.W., Good J.M., Green R.E., Krause J., Maricic T., Stenzel
+            U., LaLueza-Fox C., Rudan P., Brajkovic D., Kucan Z., Gusic I.,
+            Schmitz R., Doronichev V.B., Golovanova L.V., de la Rasilla M.,
+            Fortea J., Rosas A., Paabo S.
+  TITLE     Targeted retrieval and analysis of five Neandertal mtDNA genomes.
+  JOURNAL   Science 0:0-0(2009).
+  REMARK    STRAIN=El Sidron 1253 {ECO:0000313|EMBL:CAR95832.1}, Feldhofer 1
+            {ECO:0000313|EMBL:CAR95806.1}, Feldhofer 2
+            {ECO:0000313|EMBL:CAR95819.1}, Mezmaiskaya 1
+            {ECO:0000313|EMBL:CAR95858.1}, and Vindija 33.25
+            {ECO:0000313|EMBL:CAR95845.1}; TISSUE=Bone
+            {ECO:0000313|EMBL:CAR95806.1};
+REFERENCE   3
+  AUTHORS   Sawyer S.
+  JOURNAL   Submitted (APR-2013) to the EMBL/GenBank/DDBJ databases.
+  REMARK    TISSUE=Bone {ECO:0000313|EMBL:AGO20285.1};
+REFERENCE   4
+  AUTHORS   Consortium H.C.N.G.
+  TITLE     The high-coverage genome sequence of a Neandertal individual from
+            Denisova cave in the Altai.
+  JOURNAL   Submitted (JUN-2013) to the EMBL/GenBank/DDBJ databases.
+  REMARK    TISSUE=Bone {ECO:0000313|EMBL:AGO20285.1};
+REFERENCE   5
+  AUTHORS   Gansauge M.T., Meyer M.
+  TITLE     Selective enrichment of damaged DNA molecules for ancient genome
+            sequencing.
+  JOURNAL   Submitted (MAR-2014) to the EMBL/GenBank/DDBJ databases.
+  REMARK    STRAIN=Vi33.17 {ECO:0000313|EMBL:AHZ61451.1}, and Vi33.19
+            {ECO:0000313|EMBL:AHZ61464.1};
+REFERENCE   6
+  AUTHORS   Brown S., Higham T., Slon V., Paabo S., Meyer M., Douka K., Brock
+            F., Comeskey D., Procopio N., Shunkov M., Derevianko A., Buckley M.
+  TITLE     Identification of a new hominin bone from Denisova Cave, Siberia
+            using collagen fingerprinting and mitochondrial DNA analysis.
+  JOURNAL   Sci. Rep. 6:23559-23559(2016).
+   PUBMED   27020421
+  REMARK    STRAIN=DC1227 {ECO:0000313|EMBL:AMQ34016.1};
+REFERENCE   7
+  AUTHORS   Rougier H., Crevecoeur I., Beauval C., Posth C., Flas D., Wissing
+            C., Furtwaengler A., Germonpre M., Gomez-Olivencia A., Semal P., van
+            der Plicht J., Bocherens H., Krause J.
+  TITLE     Neandertal cannibalism and Neandertal bones used as tools in
+            Northern Europe.
+  JOURNAL   Sci. Rep. 6:29005-29005(2016).
+   PUBMED   27381450
+  REMARK    STRAIN=GoyetQ305-4 {ECO:0000313|EMBL:ANC95194.1}, GoyetQ305-7
+            {ECO:0000313|EMBL:ANC95181.1}, GoyetQ374a-1
+            {ECO:0000313|EMBL:ANC95168.1}, GoyetQ56-1
+            {ECO:0000313|EMBL:ANC95155.1}, GoyetQ57-2
+            {ECO:0000313|EMBL:ANC95207.1}, and GoyetQ57-3
+            {ECO:0000313|EMBL:ANC95142.1};
+REFERENCE   8
+  AUTHORS   Hajdinjak M., Fu Q., Hubner A., Petr M., Mafessoni F., Grote S.,
+            Skoglund P., Narasimham V., Rougier H., Crevecoeur I., Semal P.,
+            Soressi M., Talamo S., Hublin J.-J., Gusic I., Kucan Z., Rudan P.,
+            Golovanova L.V., Doronichev V.B., Posth C., Krause J., Korlevic P.,
+            Nagel S., Nickel B., Patterson N., Reich D., Prufer K., Meyer M.,
+            Paabo S., Kelso J.
+  TITLE     Reconstructing the Genetic History of Late Neandertals.
+  JOURNAL   Submitted (OCT-2017) to the EMBL/GenBank/DDBJ databases.
+  REMARK    STRAIN=Goyet Q56-1 {ECO:0000313|EMBL:AUD37528.1}, Mezmaiskaya 2
+            {ECO:0000313|EMBL:AUD37489.1}, Spy 94a
+            {ECO:0000313|EMBL:AUD37502.1}, and Vindija 87
+            {ECO:0000313|EMBL:AUD37515.1};
+REFERENCE   9
+  AUTHORS   Hajdinjak M., Fu Q., Huebner A., Petr M., Mafessoni F., Grote S.,
+            Skoglund P., Narasimham V., Rougier H., Crevecoeur I., Semal P.,
+            Soressi M., Talamo S., Hublin J.-J., Gusic I., Kucan Z., Rudan P.,
+            Golovanova L.V., Doronichev V.B., Posth C., Krause J., Korlevic P.,
+            Nagel S., Nickel B., Patterson N., Reich D., Prufer K., Meyer M.,
+            Paabo S., Kelso J.
+  TITLE     Reconstructing the genetic history of late Neanderthals.
+  JOURNAL   Nature 555:652-656(2018).
+   PUBMED   29562232
+  REMARK    STRAIN=Les Cottes Z4-1514 {ECO:0000313|EMBL:AUD37476.1};
+REFERENCE   10
+  AUTHORS   Douka K., Slon V., Jacobs Z., Bronk Ramsey C., Shunkov M.V.,
+            Derevianko A.P., Mafessoni F., Kozlikin M.B., Li B., Grun R.,
+            Kinsley L., Comeskey D., Deviese T., Brown S., Viola B., Kinsley L.,
+            Buckley M., Meyer M., Roberts R.G., Paabo S., Kelso J., Higham T.
+  TITLE     Age estimates for hominin fossils and the onset of the Upper
+            Palaeolithic at Denisova Cave.
+  JOURNAL   Nature 565:640-644(2019).
+   PUBMED   30700871
+  REMARK    STRAIN=DC1227 {ECO:0000313|EMBL:AMQ34016.1}, and Denisova15
+            {ECO:0000313|EMBL:QAU54311.1};
+REFERENCE   11
+  AUTHORS   Peyregne S., Slon V., Mafessoni F., de Filippo C., Hajdinjak M.,
+            Nagel S., Nickel B., Essel E., Le Cabec A., Wehrberger K., Conard
+            N.J., Kind C.J., Posth C., Krause J., Abrams G., Bonjean D., Di
+            Modica K., Toussaint M., Kelso J., Meyer M., Paeaebo S., Pruefer K.
+  TITLE     Nuclear DNA from two early Neandertals reveals 80,000 years of
+            genetic continuity in Europe.
+  JOURNAL   Sci. Adv. 5:eaaw5873-eaaw5873(2019).
+   PUBMED   31249872
+  REMARK    STRAIN=Scladina I-4A {ECO:0000313|EMBL:QEE94733.1};
+REFERENCE   12
+  AUTHORS   Mafessoni F., Grote S., de Filippo C., Slon V., Kolobova K.A., Viola
+            B., Markin S.V., Chintalapati M., Peyregne S., Skov L., Skoglund P.,
+            Krivoshapkin A.I., Derevianko A.P., Meyer M., Kelso J., Peter B.,
+            Pruefer K., Paeaebo S.
+  TITLE     A high-coverage Neandertal genome from Chagyrskaya Cave.
+  JOURNAL   J. ISSAAS 0:0-0(2020).
+  REMARK    STRAIN=Chagyrskaya8 {ECO:0000313|EMBL:QIT06499.1};
+REFERENCE   13
+  AUTHORS   Picin A., Hajdinjak M., Nowaczewska W., Benazzi S., Urbanowski M.,
+            Marciszak A., Fewlass H., Socha P., Stefaniak K., Zarski M.,
+            Wisniewski A., Hublin J.J., Nadachowski A., Talamo S.
+  TITLE     New perspectives on Neanderthal dispersal and turnover from Stajnia
+            Cave (Poland).
+  JOURNAL   Sci. Rep. 10:null-14778(2020).
+   PUBMED   32901061
+  REMARK    STRAIN=Stajnia S5000 {ECO:0000313|EMBL:QOI14012.1};
+COMMENT     FUNCTION: Mitochondrial membrane ATP synthase (F(1)F(0) ATP synthase
+            or Complex V) produces ATP from ADP in the presence of a proton
+            gradient across the membrane which is generated by electron
+            transport complexes of the respiratory chain. F-type ATPases consist
+            of two structural domains, F(1) - containing the extramembraneous
+            catalytic core and F(0) - containing the membrane proton channel,
+            linked together by a central stalk and a peripheral stalk. During
+            catalysis, ATP synthesis in the catalytic domain of F(1) is coupled
+            via a rotary mechanism of the central stalk subunits to proton
+            translocation. Key component of the proton channel; it may play a
+            direct role in the translocation of protons across the membrane.
+            {ECO:0000256|ARBA:ARBA00002070}.
+            SUBCELLULAR LOCATION: Membrane {ECO:0000256|ARBA:ARBA00004141};
+            Multi- pass membrane protein {ECO:0000256|ARBA:ARBA00004141}.
+            Mitochondrion inner membrane {ECO:0000256|RuleBase:RU004450};
+            Multi-pass membrane protein {ECO:0000256|RuleBase:RU004450}.
+            SIMILARITY: Belongs to the ATPase A chain family.
+            {ECO:0000256|ARBA:ARBA00006810}.
+FEATURES             Location/Qualifiers
+     TRANSMEM        6..31
+                     /note="Helical"
+                     /evidence="ECO:0000256|SAM:Phobius"
+     TRANSMEM        67..86
+                     /note="Helical"
+                     /evidence="ECO:0000256|SAM:Phobius"
+     TRANSMEM        98..117
+                     /note="Helical"
+                     /evidence="ECO:0000256|SAM:Phobius"
+     TRANSMEM        137..158
+                     /note="Helical"
+                     /evidence="ECO:0000256|SAM:Phobius"
+     TRANSMEM        164..184
+                     /note="Helical"
+                     /evidence="ECO:0000256|SAM:Phobius"
+     TRANSMEM        191..222
+                     /note="Helical"
+                     /evidence="ECO:0000256|SAM:Phobius"
+ORIGIN
+        1 mnenlfasfi aptilglpaa vliilfppll iptskylinn rlittqqwli kltskqmmam
+       61 hntkgrtwsl mlvsliifit ttnllgllph sftpttqlsm nlamaiplwa gavimgfrsk
+      121 iknalahflp qgtptplipm lviietisll iqpvalavrl tanitaghll mhlignatla
+      181 mstinlpstl iiftilillt ileiavaliq ayvftllvsl ylhdnt
+//
